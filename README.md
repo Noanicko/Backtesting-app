@@ -1,4 +1,4 @@
-# Backtesting App
+# Finance Market Backtesting App
 
 A Python-based backtesting framework for evaluating intraday trading strategies using historical market data from Dukascopy.
 
